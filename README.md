@@ -5,4 +5,4 @@ The Binary Search Tree is used to save all the movies based on release year. Sep
 
 The movies are saved in a comma seperated file.
 
-The entire code is written in Python (version 3.9) using the Visual Studio Code IDE (version 1.67.0).
+The entire code is written in C++ (Extension Pack Version 1.1.0) using the Visual Studio Code IDE (version 1.67.0).
